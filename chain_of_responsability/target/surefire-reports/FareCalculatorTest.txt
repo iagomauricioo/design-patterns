@@ -1,0 +1,17 @@
+-------------------------------------------------------------------------------
+Test set: FareCalculatorTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.041 s <<< FAILURE! -- in FareCalculatorTest
+FareCalculatorTest.shouldCalculateMininumFare -- Time elapsed: 0.004 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <10.0> but was: <4.2>
+	at org.junit.jupiter.api.AssertionFailureBuilder.build(AssertionFailureBuilder.java:151)
+	at org.junit.jupiter.api.AssertionFailureBuilder.buildAndThrow(AssertionFailureBuilder.java:132)
+	at org.junit.jupiter.api.AssertEquals.failNotEqual(AssertEquals.java:197)
+	at org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:70)
+	at org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:65)
+	at org.junit.jupiter.api.Assertions.assertEquals(Assertions.java:889)
+	at FareCalculatorTest.shouldCalculateMininumFare(FareCalculatorTest.java:70)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+

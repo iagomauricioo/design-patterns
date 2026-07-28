@@ -1,2 +1,7 @@
-/home/sn-387467/design_patterns/chain_of_responsability/src/main/java/CalculateFare.java
+/home/sn-387467/design_patterns/chain_of_responsability/src/main/java/FareCalculator.java
+/home/sn-387467/design_patterns/chain_of_responsability/src/main/java/NormalFareCalculator.java
+/home/sn-387467/design_patterns/chain_of_responsability/src/main/java/OvernightFareCalculator.java
+/home/sn-387467/design_patterns/chain_of_responsability/src/main/java/OvernightSundayFareCalculator.java
+/home/sn-387467/design_patterns/chain_of_responsability/src/main/java/Ride.java
 /home/sn-387467/design_patterns/chain_of_responsability/src/main/java/Segment.java
+/home/sn-387467/design_patterns/chain_of_responsability/src/main/java/SundayFareCalculator.java
